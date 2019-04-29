@@ -1,7 +1,5 @@
-# GoogleFlutter
-
-
 # Contact App
+
 ![alt text](https://sameteraslan.github.io/GoogleFlutter/Screens/ContactsMainPage.PNG)
 
 
